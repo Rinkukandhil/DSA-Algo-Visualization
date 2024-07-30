@@ -1,3 +1,7 @@
+## Deployment to vercel
+
+https://dsa-algo-visualization.vercel.app/
+
 ## Algorithms
 
 - Bubble Sort
